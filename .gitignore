@@ -1,0 +1,14 @@
+### Go template
+# Binaries for programs and plugins
+src/scheduler-service
+src/src
+
+vendor/
+
+# IDEs:
+.idea/
+.vscode/
+
+# logs:
+*.log
+*.log.*
